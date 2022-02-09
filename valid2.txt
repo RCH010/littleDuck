@@ -1,0 +1,8 @@
+program secondValidTest;
+var a, b : int;
+{
+  a = 12;
+  print(a);
+  b = 22;
+  print(b);
+}

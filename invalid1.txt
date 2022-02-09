@@ -1,0 +1,8 @@
+program validTest {
+  var invalidprogram : int;
+  {
+    print("success");
+  } else {
+    print("err");
+  };
+}
